@@ -3,7 +3,7 @@ import dayjs from "dayjs";
 
 export interface Props {
   post: any;
-  flipFlop: boolean;
+  flipFlop?: boolean;
 }
 
 const { post, flipFlop } = Astro.props;
@@ -33,7 +33,7 @@ if (flipFlop) {
     height="192"
   />
   <div class="pt-4 px-4 flex h-full flex-col justify-between">
-    <h2 class="font-bold text-2xl leading-tight">
+    <h2 class="font-bold text-2xl leading-tight line-clamp-2">
       {title}
     </h2>
     <div class="desc line-clamp-2 mt-2 text-sm text-gray-600">

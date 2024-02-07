@@ -37,7 +37,7 @@ const sortedPosts = allPosts.sort(
             sortedPosts.map((p) => (
               <>
                 {p.frontmatter.tags.includes("flip-flop") ? (
-                  <FlipCard post={p} />
+                  <Card flipFlop={false} post={p} /> //on index page it wil be normal
                 ) : (
                   <Card flipFlop={false} post={p} />
                 )}
