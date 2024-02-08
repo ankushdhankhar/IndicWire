@@ -1,6 +1,6 @@
 ---
 title: "Prime Minister Narendra Modi on Manipur"
-pubDate: "2023-02-06"
+pubDate: "2024-02-06"
 slug: "Prime-Minister-Narendra-Modi-on-Manipur"
 description: "summary of Prime Minister Narendra Modi’s recent remarks related to Manipur"
 hero: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/pm-modi-295340331-16x9_0.jpg?VersionId=1J0jqlnMBv9u2qJhzKgcqBx.DEQ97iwk&size=690:388"
