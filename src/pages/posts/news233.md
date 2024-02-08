@@ -3,7 +3,7 @@ title: "'anti-cheating' Bill"
 description: "The Lok Sabha on Tuesday passed an 'anti-cheating' bill to check fraudulent practices - such as leaking of exam papers - in government recruitment exams."
 pubDate: "2024-02-06"
 hero: "https://www.thetatva.in/wp-content/uploads/2023/08/istock-181866634-1034758-1632766451-780x470.jpeg"
-tags: ["Trending"]
+tags: ["trending"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 # Centre's anti-cheating bill passed in Lok Sabha: Punishment up to 10 years in jail, ₹1 crore fine

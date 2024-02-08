@@ -3,7 +3,7 @@ title: "Few chilling cases involving live-in partners"
 description: "UCC is needed because these relationships can sometimes take a dark turn, leading to tragic outcomes."
 pubDate: "2024-02-08"
 hero: "https://bsmedia.business-standard.com/_media/bs/img/article/2019-01/14/full/1547407852-1258.jpg?im=FeatureCrop,size=(826,465)"
-tags: ["Politics"]
+tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 **Live-in relationships** are not illegal in India. The Supreme Court has clarified that **consenting adults can live together without marriage**, and such relationships are **included under the ambit of the Domestic Violence Act**². However, these relationships can sometimes take a dark turn, leading to tragic outcomes.

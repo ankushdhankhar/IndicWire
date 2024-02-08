@@ -3,7 +3,7 @@ title: "KFC welcome in Ayodhya with restrictions: Official"
 description: "They can't sell non-veg in restricted areas"
 pubDate: "2024-02-08"
 hero: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202402/kfc-in-ayodhya-071212933-16x9_0.jpg?VersionId=gmj0Y8r3FqebUYENR6agjocoY.DO7nu7&size=690:388"
-tags: ["Trending"]
+tags: ["trending"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 ## KFC In Ayodhya?

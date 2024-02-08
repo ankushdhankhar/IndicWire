@@ -3,7 +3,7 @@ title: "Lakshadweep Islands: Rs 3,600 Crore Infrastructure Upgrade"
 description: "Lakshadweep islands set for major upgrade! India has planned a Rs 3,600- crore-plus infrastructure upgrade for the Lakshadweep islands to transform them into a tourist hub."
 pubDate: "2024-02-08"
 hero: "https://static.toiimg.com/thumb/msid-107482450,width-1280,height-720,resizemode-4/107482450.jpg"
-tags: ["World"]
+tags: ["world"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 ## Lakshadweep Islands: Rs 3,600 Crore Infrastructure Upgrade
