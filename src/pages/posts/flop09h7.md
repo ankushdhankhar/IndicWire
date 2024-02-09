@@ -3,7 +3,7 @@ title: "Strike-Free Environment in Assam's development"
 description: "Assam chief minister Himanta Biswa Sarma said strike-Free Environment in last three years is aiding in state’s march towards new dawn of growth and development."
 pubDate: "2024-02-09"
 hero: "https://www.millenniumpost.in/h-upload/2023/08/23/724713-assam.webp"
-tags: ["politics","flip-flop"]
+tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 ## Infrastructure projects worth a staggering Rs. 11,600 crores in a single day in Assam
