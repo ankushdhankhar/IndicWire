@@ -3,7 +3,7 @@ title: "'white paper on the Indian economy'"
 description: "NirmalaSitharaman tabled a 'white paper on the Indian economy' in the Lok Sabha."
 pubDate: "2024-02-09"
 hero: "https://www.etvbharat.com/_next/image?url=https%3A%2F%2Fetvbharatimages.akamaized.net%2Fetvbharat%2Fprod-images%2F08-02-2024%2F1200-675-20702310-857-20702310-1707400408188.jpg&w=3840&q=30"
-tags: ["trending","flip-flop"]
+tags: ["trending" , "politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 ### 'white paper on the Indian economy' in the Lok Sabha.
