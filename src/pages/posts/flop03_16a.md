@@ -3,7 +3,7 @@ title: "Sonia Gandhi has consistently voiced her opposition to the CAA"
 description: "Recently, a large number of Hindu and Sikh refugees from Pakistan and Afghanistan staged a massive protest near the AICC headquarters in New Delhi"
 pubDate: "2024-03-16"
 hero: "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/12/17/Pictures/_d4809d00-20c9-11ea-b71b-55a416c89533.png"
-tags: ["politics","flip-flop"]
+tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 **Sonia Gandhi**, the Congress president, has been actively involved in **protests against the Citizenship (Amendment) Act (CAA)**. Recently, a large number of **Hindu and Sikh refugees from Pakistan and Afghanistan** staged a massive protest near the **All India Congress Committee (AICC) headquarters in New Delhi**. They were **enraged over statements made by India's opposition bloc leaders regarding the implementation of the CAA**. The protestors held placards expressing their resentment against these leaders and raised slogans. The police deployed a heavy force to maintain law and order and prevent the refugees from reaching the Congress headquarters. A tense standoff between the demonstrators and the police was witnessed near Ashoka Road².

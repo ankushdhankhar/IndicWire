@@ -3,7 +3,7 @@ title: "Maharashtra congress leaders entered BJP"
 description: "In a significant political development, Padmakar Valvi, a senior Congress leader and former minister, has joined BJP"
 pubDate: "2024-03-17"
 hero: "https://www.livemint.com/lm-img/img/2024/03/13/600x338/valvi_bjp_1710318322468_1710318341334.jpeg"
-tags: ["politics","flip-flop"]
+tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
