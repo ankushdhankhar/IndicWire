@@ -3,7 +3,7 @@ title: "Congress spokesperson Pawan Khera hit out at Prime Minister"
 description: "Congress spokesperson Pawan Khera hit out at Prime Minister Narendra #Modi’s continuing silence on Manipur, as the latter paid a visit to Assam on Sunday, January 4."
 pubDate: "2024-02-06"
 hero: "https://www.livelaw.in/h-upload/2023/08/16/1600x960_486791-pawan-khera.jpg"
-tags: ["Politics"]
+tags: ["trending","politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 ## Prime Minister Narendra Modi’s continuing silence on Manipur

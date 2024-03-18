@@ -3,7 +3,7 @@ title: "Uttarakhand Uniform Civil Code (UCC)"
 description: "Uttarakhand has become the first state in the country to give legal backing to live-in relationships, making it mandatory for residents to register such unions with the authorities."
 pubDate: "2024-02-01"
 hero: "https://www.thestatesman.com/wp-content/uploads/2023/07/UCC-iStock-1.jpg"
-tags: ["Politics"]
+tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 # Uttarakhand Uniform Civil Code (UCC)
