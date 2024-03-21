@@ -2,7 +2,7 @@
 title: "Over the last couple of years, there has been an increasing trend towards the adoption of female children in India."
 description: "Child adoption is a complex and multifaceted process that reflects the sociocultural dynamics of Indian society. While adoption has a long history in India, it is not without its challenges, especially when it comes to gender aspects."
 pubDate: "2024-03-21"
-hero: "hhttps://www.adoptfamilyconnections.org/hs-fs/hubfs/adoption_33.jpg?width=248&name=adoption_33.jpgttps://assets.telegraphindia.com/telegraph/2024/Mar/1710718937_dhumalfinal.jpg"
+hero: "https://www.adoptfamilyconnections.org/hs-fs/hubfs/adoption_33.jpg?width=248&name=adoption_33.jpgttps://assets.telegraphindia.com/telegraph/2024/Mar/1710718937_dhumalfinal.jpg"
 tags: ["health-and-lifestyle"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
