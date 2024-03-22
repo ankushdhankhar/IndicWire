@@ -32,8 +32,3 @@ Here are the key points of the bill:
 
 The bill aims to curb malpractices in various public examinations, including those conducted by Union and state public service commissions, railways, and entrance exams for medical, engineering, and university programs¹⁴. It's a significant step toward maintaining the integrity of our examination systems. 📚✍️
 
-Source: 
-(1) Centre's anti-cheating bill tabled in Lok Sabha: Punishment up to 10 .... https://www.hindustantimes.com/india-news/centres-anti-cheating-bill-tabled-in-lok-sabha-punishment-up-to-10-years-in-jail-rs-1-crore-fine-101707132227754.html.
-(2) ‘Anti-cheating’ bill passed in Lok Sabha; to be moved in Rajya Sabha .... https://www.gujaratsamachar.com/news/national/anti-cheating-bill-passed-in-lok-sabha-to-be-moved-in-rajya-sabha.
-(3) Lok Sabha Passes Bill To Curb Cheating, Paper Leaks, Up To 10 Years In .... https://www.ndtv.com/education/lok-sabha-passes-bill-to-curb-cheating-paper-leaks-up-to-10-years-in-jail-rs-1-crore-fine-5005735.
-(4) Bill to check cheating in govt. recruitment exams tabled in Lok Sabha .... https://www.thehindu.com/news/national/bill-to-check-cheating-in-govt-recruitment-exams-tabled-in-lok-sabha/article67814791.ece.
