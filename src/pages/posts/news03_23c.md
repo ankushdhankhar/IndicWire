@@ -46,11 +46,11 @@ India's data consumption journey is awe-inspiring. From streaming videos to e-le
 *Disclaimer: The views expressed in this report are based on available data and expert opinions. The actual figures may vary, and readers are encouraged to stay informed through reliable sources.*
 
 ---
-
+<!-- 
 **References:**
 1. [Here’s how much average data Indians are consuming in a month](https://timesofindia.indiatimes.com/gadgets-news/heres-how-much-average-data-indians-are-consuming-in-a-month/articleshow/97984759.cms)
 
 Source: 
 (1) Here’s how much average data Indians are consuming in a month. https://timesofindia.indiatimes.com/gadgets-news/heres-how-much-average-data-indians-are-consuming-in-a-month/articleshow/97984759.cms.
 (2) Here’s how much data Indians consume in a month on average. https://www.thehindu.com/sci-tech/technology/heres-how-much-data-indians-consume-in-a-month-on-average/article66516419.ece.
-(3) Here's How Much Mobile Data An Average Indian Consumes Every Month. https://www.news18.com/news/tech/heres-how-much-mobile-data-an-average-indian-consumes-every-month-4877453.html.
+(3) Here's How Much Mobile Data An Average Indian Consumes Every Month. https://www.news18.com/news/tech/heres-how-much-mobile-data-an-average-indian-consumes-every-month-4877453.html. -->
