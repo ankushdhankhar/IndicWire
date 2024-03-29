@@ -41,8 +41,3 @@ While Joby will have exclusivity for flights within Dubai, rival company Archer 
 Dubai's skies are poised to witness a historic transformation as Joby Aviation prepares to launch its electric air taxis. Commuters and tourists alike eagerly await the day when they can hail a flying taxi and soar above the city's iconic landmarks.
 
 ---
-
-*Sources*:
-1. [Hindustan Times](https://www.hindustantimes.com/lifestyle/travel/dubai-set-to-host-worlds-first-flying-taxi-service-with-air-taxi-startup-joby-aviation-101711179838120.html) ²
-2. [Joby Aviation](https://www.jobyaviation.com/news/joby-to-launch-air-taxi-service-uae/) ⁴
-3. [The Aviator Middle East](https://www.theaviatorme.com/news/joby-aviation-rta-air-taxi-services-uae) ⁵

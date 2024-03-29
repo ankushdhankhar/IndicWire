@@ -37,8 +37,3 @@ This successful operation underscores India's commitment to securing vital sea l
 
 
 ---
-
-Sources:
-1. [The Hindu](https://www.thehindu.com/news/national/warship-ins-kolkata-carrying-35-pirates-apprehended-off-somalia-coast-reaches-mumbai/article67983353.ece)
-2. [ThePrint](https://theprint.in/india/warship-ins-kolkata-carrying-35-pirates-apprehended-off-somalia-coast-reaches-mumbai/2012480/)
-3. [Mathrubhumi](https://english.mathrubhumi.com/news/india/ins-kolkata-brings-35-pirates-to-mumbai-1.9429761)

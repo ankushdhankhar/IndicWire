@@ -20,4 +20,4 @@ India maintains that Kejriwal's arrest is an **internal matter**, and any biased
 *With inputs from ANI*
 
 ---
-India's response to Germany's comments on Arvind Kejriwal's arrest reflects its commitment to safeguarding its judicial process and democratic values. The clash of perspectives highlights the delicate balance between national sovereignty and international discourse. As Kejriwal's case unfolds, the world watches, and questions arise about the intersection of law, politics, and diplomacy. 🌐🇮🇳🇩🇪
+<!-- India's response to Germany's comments on Arvind Kejriwal's arrest reflects its commitment to safeguarding its judicial process and democratic values. The clash of perspectives highlights the delicate balance between national sovereignty and international discourse. As Kejriwal's case unfolds, the world watches, and questions arise about the intersection of law, politics, and diplomacy. 🌐🇮🇳🇩🇪 -->
