@@ -34,3 +34,5 @@ layout: "../../layouts/BlogPostLayout.astro"
    - The ban aims to prevent incidents without unfairly penalizing responsible dog owners.
 
 Remember, responsible pet ownership involves not only choosing the right breed but also providing proper care, training, and socialization to ensure harmonious coexistence between humans and their furry companions. 🐶🐾
+
+---

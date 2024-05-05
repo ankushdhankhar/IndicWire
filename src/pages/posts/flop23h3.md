@@ -18,3 +18,5 @@ As expected, Modi, during the one-and-a-half day visit to Assam, remained silent
 Modi’s silence on the ongoing Manipur violence which has thus far rendered thousands homeless and killed many an innocent is particularly being questioned by the Opposition for shielding N. Biren Singh, a chief minister hand-picked by him and his deputy, the home minister Amit Shah. Shah had also gone to the extent of supporting Singh while placing a statement in parliament on the Manipur violence.
 
 For the last nine months, Prime Minister Modi, while stridently backing Biren Singh, has also disregarded the call from common citizens belonging to both the warring communities of Manipur to visit the state at least once. Members of the civil society have underlined to visiting media persons that Manipur is also a BJP-ruled state where Modi’s party had formed a government on its own for the first time after the last assembly polls.
+
+---

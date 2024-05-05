@@ -14,10 +14,4 @@ In the past, **Sonia Gandhi** has consistently voiced her opposition to the CAA.
 
 The debate surrounding the CAA remains contentious, with various leaders expressing differing views on its implementation. Sonia Gandhi's active involvement in protests reflects her commitment to defending citizens' rights and voicing dissent against government actions⁶.
 
-Source:
-(1) Hindu and Sikh refugees protest over INDIA leaders' statements on CAA .... https://www.newindianexpress.com/nation/2024/Mar/15/hindu-and-sikh-refugees-protest-over-india-leaders-statements-on-caa-in-delhi.
-(2) Sonia Gandhi slams 'govt actions' against anti-CAA, NRC demonstrators .... https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-slams-govt-actions-against-anti-caa-nrc-demonstrators/videoshow/72905551.cms.
-(3) Sonia Gandhi leads anti-CAA protest in Parliament ahead of Budget .... https://www.indiatoday.in/india/story/sonia-gandhi-leads-anti-caa-protest-in-parliament-ahead-of-budget-session-1641859-2020-01-31.
-(4) caa protest: Congress leaders protest in Parliament complex - The .... https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-leads-anti-caa-protest-in-parliament-ahead-of-budget-session/articleshow/73792229.cms.
-(5) Sonia Gandhi Decries Use of 'Brute Force', Supports Citizens' Right to .... https://thewire.in/politics/sonia-gandhi-congress-protests-dissent-nrc-caa.
-(6) undefined. https://widget.taggbox.com/embed-lite.min.js.
+---

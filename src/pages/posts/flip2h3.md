@@ -44,10 +44,4 @@ During the recent **Manipur ethnic violence**, the central government took sever
 
 Despite these efforts, the crisis remains complex, and addressing the broader context of violence in Manipur requires sustained attention and comprehensive strategies¹².
 
-
-Source: 
-(1) Narendra Modi Talked About the Manipur Violence. But Did He Really?. https://thewire.in/politics/narendra-modi-talked-about-the-manipur-violence-but-did-he-really.
-(2) Outside Parliament, PM breaks silence on Manipur sexual assault .... https://bing.com/search?q=Prime+Minister+Narendra+Modi+remarks+Manipur.
-(3) PM Modi's remarks at the start of Monsoon Session 2023 of Parliament. https://www.narendramodi.in/prime-minister-narendra-modi-s-remarks-at-the-start-of-monsoon-session-2023-of-parliament-572261.
-(4) PM Narendra Modi wishes Manipur, Meghalaya and Tripura on their .... https://www.indiatoday.in/india/story/manipur-52nd-statehood-day-prime-minister-narendra-modi-wishes-tweet-2491507-2024-01-21.
-(5) Outside Parliament, PM breaks silence on Manipur sexual assault .... https://www.thehindu.com/news/national/other-states/manipur-sexual-assault-modi-breaks-silence-assures-stringent-punishment-for-guilty-with-full-might-of-law/article67100641.ece.
+---

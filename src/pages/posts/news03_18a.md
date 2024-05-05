@@ -34,8 +34,3 @@ As the crisis deepens, the world watches with bated breath. The specter of World
 *Disclaimer: The views expressed in this article are those of the author and do not necessarily reflect the official stance of any government or organization.*
 
 ---
-
-**Sources:**
-1. [Putin warns the West a Russia-NATO conflict is just one step from WW3](https://www.msn.com/en-ph/news/other/putin-warns-west-a-russia-nato-conflict-is-just-one-step-from-ww3/ar-BB1k45Ej) (MSN)
-2. [Newly-elected Vladimir Putin warns West that a conflict between Russia and NATO would be 'one step' from World War 3 after Macron refused to rule out putting troops on the ground in Ukraine](https://www.msn.com/en-nz/news/other/newly-elected-vladimir-putin-warns-west-that-a-conflict-between-russia-and-nato-would-be-one-step-from-world-war-3-after-macron-refused-to-rule-out-putting-troops-on-the-ground-in-ukraine/ar-BB1k4QuQ) (MSN)
-3. [Putin warns the West of Possible 'World War 3' after landslide victory in elections | Russia-NATO](https://timesofindia.indiatimes.com/videos/toi-original/putin-warns-the-west-of-possible-world-war-3-after-landslide-victory-in-elections-russia-nato/videoshow/108585902.cms) (Times of India)

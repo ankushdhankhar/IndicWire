@@ -45,8 +45,4 @@ These ambitious infrastructure projects hold immense promise for **Assam's econo
 
 In summary, these initiatives lay the groundwork for a more prosperous Assam by fostering development, attracting investments, and empowering its people. 🌟🏗️🌱
 
-Source:
-(1) PM Modi unveils project worth Rs 11,600 crore in Assam. https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-rs-11600-crore-development-projects-in-assam/articleshow/107398693.cms.
-(2) PM Modi inaugurates projects worth over Rs 11,000 crore in Assam - MSN. https://www.msn.com/en-in/news/India/pm-modi-inaugurates-projects-worth-over-rs-11-000-crore-in-assam/ar-BB1hK0v5.
-(3) PM inaugurates and lays foundation stone for development projects worth .... https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-and-lays-foundation-stone-for-development-projects-worth-rs-11000-crores-in-guwahati-assam/.
-(4) PM Modi to launch infrastructure projects worth ₹79,000 crore in Odisha .... https://energy.economictimes.indiatimes.com/news/oil-and-gas/pm-modi-to-launch-infrastructure-projects-worth-79000-crore-in-odisha-assam-visit/107376044.
+---

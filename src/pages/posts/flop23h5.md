@@ -29,10 +29,4 @@ In Ayodhya, apart from the **vegetarian-only menu** requirement within the **15 
 
 Remember, Ayodhya holds immense historical and religious importance, so restaurants play a vital role in preserving its sanctity while providing a delightful dining experience. 🍽️🌟
 
-Source:
-(1) KFC welcome in Ayodhya but can't sell non-veg items in restricted area: Official. https://www.msn.com/en-in/news/India/kfc-welcome-in-ayodhya-but-cant-sell-non-veg-items-in-restricted-area-official/ar-BB1hUkvI.
-(2) KFC In Ayodhya? Here’s What Temple Town Administration Says. https://www.msn.com/en-in/news/India/kfc-in-ayodhya-heres-what-temple-town-administration-says/ar-BB1hVa9y.
-(3) KFC Invited To Ayodhya After Ram Mandir Opening, But On THIS Condition. https://www.msn.com/en-in/entertainment/tv/kfc-invited-to-ayodhya-after-ram-mandir-opening-but-on-this-condition/ar-BB1hV6lb.
-(4) KFC Welcome In Ayodhya, But Meat Off Menu? Netizens React - The Quint. https://www.thequint.com/neon/social-buzz/kfc-welcome-in-ayodhya-but-meat-off-menu-netizens-react.
-(5) KFC in Ayodhya | US fast-food giant is welcome near Ram Mandir ... - Mint. https://www.livemint.com/news/india/kfc-in-ayodhya-us-fast-food-giant-is-welcome-near-ram-mandir-but-it-has-to-change-its-menu-report-11707189353123.html.
-(6) kfc in ayodhya no non veg items in restricted area - ABP LIVE. https://news.abplive.com/lifestyle/kfc-in-ayodhya-ram-mandir-non-veg-items-in-restricted-area-panch-kosi-marg-1662566.
+---

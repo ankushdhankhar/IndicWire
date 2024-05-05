@@ -32,11 +32,4 @@ Here are the key points:
 
 As the city grapples with this pressing issue, all eyes are on the Cauvery Five project, hoping it will bring much-needed relief to Bengaluru's parched streets. The urgency of the situation demands swift action, collaboration, and innovative solutions to ensure a sustainable water supply for the city's growing population.
 
-Source:
-(1) undefined. https://widget.taggbox.com/embed-lite.min.js.
-(2) Bengaluru Water Crisis: City Facing 500 Million Litres Shortage Daily, Says CM Siddaramaiah. https://www.msn.com/en-in/news/other/bengaluru-water-crisis-city-facing-500-million-litres-shortage-daily-says-cm-siddaramaiah/ar-BB1k8koq.
-(3) Bengaluru facing 500 million litres water shortage: Karnataka Chief Minister. https://www.msn.com/en-in/news/India/bengaluru-facing-500-million-litres-water-shortage-karnataka-chief-minister/ar-BB1k7SdN.
-(4) Bengaluru water crisis: CM Siddaramaiah says govt will provide water to all 110 villages near city in June. https://www.livemint.com/news/india/bengaluru-water-crisis-siddaramaiah-says-his-govt-will-provide-water-to-110-villages-around-bengaluru-in-june/amp-11710763167413.html.
-(5) Bengaluru facing 500 million litres water shortage: Karnataka Chief .... https://www.indiatoday.in/india/story/bengaluru-facing-500-million-litres-water-shortage-karnataka-chief-minister-2516592-2024-03-19.
-(6) Bengaluru facing shortage of 500 million litres water daily: Karnataka .... https://www.indiatvnews.com/karnataka/bengaluru-facing-shortage-of-500-million-litres-water-daily-says-karnataka-cm-siddaramaiah-latest-updates-2024-03-19-922145.
-(7) Bengaluru Battles Water Shortage: 6,900 Borewells Dry, Karnataka CM .... https://www.oneindia.com/bengaluru/bengaluru-battles-water-shortage-6-900-borewells-dry-karnataka-cm-siddaramaiah-announces-emergency-3777429.html.
+---

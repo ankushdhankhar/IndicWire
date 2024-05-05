@@ -62,8 +62,4 @@ These cases serve as a stark reminder that while live-in relationships are legal
 
 These cases serve as a stark reminder that while live-in relationships are legally allowed, they can sometimes turn deadly. It's essential for individuals in such relationships to prioritize safety and seek help if needed.
 
-Source:
-(1) Mira Road murder: Man who killed, boiled body parts of live-in partner .... https://www.indiatoday.in/crime/story/mira-road-murder-manoj-sane-live-in-partner-murder-what-we-know-so-far-2390656-2023-06-09.
-(2) EXCLUSIVE: Is live-in relationship legal in India? Moral police blame .... https://zeenews.india.com/relationships/exclusive-is-live-in-relationship-legal-in-india-moral-police-blame-it-in-shraddha-murder-case-but-law-says-this-2539113.html.
-(3) The Live-In Horrors: Nikki Yadav, Shraddha Walkar, Megha Thorvi; 3 Love .... https://english.jagran.com/india/nikki-yadav-murder-shraddha-walkar-case-megha-thorvi-killing-mumbai-delhi-crime-news-live-in-relationships-brutal-murders-10065335.
-(4) That’s how love kills in India, literally - India Today. https://www.indiatoday.in/diu/story/how-love-kills-in-india-literally-1854219-2021-09-18.
+---

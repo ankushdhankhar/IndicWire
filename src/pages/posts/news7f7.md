@@ -30,3 +30,5 @@ Certainly! Let's delve into the details of the **Uttarakhand Uniform Civil Code 
    - Security has been heightened around the Assembly premises during this critical period.
 
 The UCC aims to bring **uniformity in personal laws** across different religious and cultural communities, promoting equality and justice. As the legislative process unfolds, all eyes are on Uttarakhand to see how this historic development shapes the legal landscape in the state. 🌟📜
+
+---

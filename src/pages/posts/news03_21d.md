@@ -45,17 +45,6 @@ Gender-sensitive adoption in India is a multifaceted issue that requires concert
 
 ---
 
-*Keywords*: Gender, Adoption, India, Central Adoption Resource Authority (CARA), Orphan
-
----
-
 This report is based on a mixed methods approach, combining quantitative data analysis with qualitative insights from interviews and surveys. It aims to shed light on the complexities, challenges, and opportunities of gender-sensitive adoption in India. As we move forward, let us work towards a society where every child finds a loving and nurturing home, irrespective of gender.
 
-Source: 
-(1) IDC Digital Adoption in India — Trends and Priorities in 2024 and Beyond. https://www.idc.com/getdoc.jsp?containerId=AP51518724.
-(2) 10 Things To Know About Adoption In India. https://internationaladoption.org/know-adoption-india/.
-(3) Adoption in India - the Past,Present and the Future Trends - Academia.edu. https://www.academia.edu/31497268/Adoption_in_India_the_Past_Present_and_the_Future_Trends.
-(4) Gender Disparities in Child Adoption Trends in India. https://www.jetir.org/papers/JETIR2312485.pdf.
-(5) Digital India: Technology to transform a connected nation. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-india-technology-to-transform-a-connected-nation.
-(6) 60% children adopted in India between 2015 and 2018 are girls. https://www.thehindu.com/news/national/60-children-adopted-in-india-between-2015-and-2018-are-girls/article26241070.ece.
-(7) India breaks gender bias as preference for adopting girl child .... https://economictimes.indiatimes.com/news/india/india-breaks-gender-bias-as-preference-for-adopting-girl-child-increases/articleshow/108590887.cms.
+---

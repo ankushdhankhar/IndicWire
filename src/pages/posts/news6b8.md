@@ -28,8 +28,4 @@ The construction of a fortified fence along the Indo-Myanmar border could have i
 
 In summary, while the border fence aims to enhance security, its impact on trade will depend on how effectively both nations manage the transition and address potential challenges. Close coordination and dialogue will be crucial to mitigate any adverse effects on bilateral trade and relations. 🌐🤝
 
-Source: 
-(1) indo-myanmar border: Modi govt to construct fence along 1643-km Indo .... https://economictimes.indiatimes.com/news/defence/modi-govt-to-construct-fence-along-1643-km-indo-myanmar-border-hm-amit-shah/articleshow/107463860.cms.
-(2) Advanced smart fencing of 100 km along Indo-Myanmar Border in pipeline .... https://www.etvbharat.com/english/state/assam/advanced-smart-fencing-along-indo-myanmar-border-in-pipeline/na20231009222806930930576.
-(3) India to construct fencing along 1,643-km-long Indo-Myanmar border .... https://www.businesstoday.in/india/story/india-to-construct-fencing-along-1643-km-long-indo-myanmar-border-amit-shah-416423-2024-02-06.
-(4) India Will Fence Entire 1,643-Km Border With Myanmar: Amit Shah - NDTV.com. https://www.ndtv.com/india-news/india-will-fence-entire-1-643-km-border-with-myanmar-amit-shah-5006170.
+---

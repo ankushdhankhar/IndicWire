@@ -41,9 +41,4 @@ The Delhi Excise Policy case revolves around alleged irregularities in the formu
 The Delhi Excise Policy case remains a significant legal matter, with investigations ongoing. The allegations involve financial improprieties, political influence, and the misuse of public resources. As the case unfolds, further details may emerge, shedding light on the intricacies of the policy and its impact on governance and electoral processes.
 
 
-Source: 
-(1) Delhi Excise Policy Case: ED team reaches Arvind Kejriwal’s residence for questioning. https://www.financialexpress.com/india-news/arvind-kejriwal-ed-questioning-live-delhi-excise-policy-case-latest-updates-bkg/3433147/.
-(2) Kejriwal arrested: What is the Delhi excise policy case, and what is .... https://indianexpress.com/article/explained/kejriwal-arrested-what-is-the-delhi-excise-policy-case-what-is-the-delhi-cm-accused-of-9227319/.
-(3) Delhi excise policy case: ED team at Delhi CM Arvind Kejriwal's residence to.... https://www.msn.com/en-in/news/other/delhi-excise-policy-case-ed-team-at-delhi-cm-arvind-kejriwal-s-residence-to/ar-BB1kiirv.
-(4) Excise policy case: Delhi court directs CBI to file detailed ... - MSN. https://www.msn.com/en-in/news/India/excise-policy-case-delhi-court-directs-cbi-to-file-detailed-status-report-in-sealed-cover/ar-BB1hNaXh.
-(5) Excise policy case: Delhi court directs CBI to file detailed status .... https://www.hindustantimes.com/cities/delhi-news/excise-policy-case-delhi-court-directs-cbi-to-file-detailed-status-report-in-sealed-cover-101707123919510.html.
+---

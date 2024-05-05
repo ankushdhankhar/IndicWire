@@ -35,9 +35,4 @@ To address these issues, the government has ordered police and administrative of
 
 While the government frames this move as a measure to secure **national security**, critics argue that it may have political implications, especially in the context of upcoming assembly elections¹. Regardless, fostering dialogue and addressing demographic changes in a balanced manner is crucial for maintaining social harmony and respecting the rights of all citizens.
 
-Source:
-(1) Uttarakhand red-flags ‘demographic change’, says one community forced .... https://www.hindustantimes.com/cities/dehradun-news/uttarakhand-red-flags-demographic-change-says-one-community-forced-to-migrate-101632505028971.html.
-(2) Rapid population causing demographic changes, warns Uttarakhand govt .... https://indianexpress.com/article/india/rapid-population-causing-demographic-changes-warns-uttarakhand-govt-7534020/.
-(3) Rapid rise in population causing demographic changes: Uttarakhand .... https://www.newsbytesapp.com/news/india/rapid-population-causing-demographic-changes-warns-uttarakhand-government/story.
-(4) A-02: Decadal variation in population 1901-2011, Uttarakhand. https://censusindia.gov.in/nada/index.php/catalog/43338.
-(5) Highest increase in among five election-bound state in Uttarakhand .... https://www.newindianexpress.com/nation/2022/mar/06/highest-increase-in-among-five-election-boundstate-in-uttarakhand-sparks-demographic-change-apprehe-2427045.html.
+---

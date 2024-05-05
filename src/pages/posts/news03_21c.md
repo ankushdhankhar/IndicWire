@@ -39,8 +39,3 @@ Amidst the tensions, local authorities have appealed to the people to maintain p
 As the controversy unfolds, the fate of these 91 shops hangs in the balance, and the community grapples with questions of identity, security, and livelihoods.
 
 ---
-
-*Sources:*
-1. [Uttarakhand: Traders' Body Cancels Registrations of Muslim-Owned Shops](https://thewire.in/communalism/uttarakhand-traders-body-cancels-registrations-of-muslim-owned-shops) (The Wire)
-2. [Uttarakhand: Traders' union booked after forced deregistration of Muslim shopkeepers](https://www.newsbytesapp.com/news/india/uttarakhand-police-protect-deregistered-muslim-shopkeepers/story) (NewsBytes)
-3. [Muslim traders ordered to leave Dharchula following alleged abduction incident in UP](https://muslimmirror.com/eng/muslim-traders-ordered-to-leave-dharchula-following-alleged-abduction-incident-in-up/) (Muslim Mirror)

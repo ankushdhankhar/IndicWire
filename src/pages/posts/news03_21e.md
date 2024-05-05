@@ -39,10 +39,4 @@ Here are the key details:
 
 *Note: The information provided is based on available reports and official statements. The situation may evolve, and additional details may emerge.*¹²³⁴⁵
 
-Source: 
-(1) ED arrests Delhi Chief Minister Arvind Kejriwal | Delhi News - The .... https://indianexpress.com/article/cities/delhi/ed-arrests-delhi-chief-minister-arvind-kejriwal-9227086/.
-(2) Delhi CM Arvind Kejriwal arrested by Enforcement Directorate in ... - MSN. https://www.msn.com/en-in/news/India/delhi-cm-arvind-kejriwal-arrested-by-enforcement-directorate-in-excise-policy-case/ar-BB1kirYt.
-(3) Delhi CM Arvind Kejriwal arrested in liquor policy scam ... - India TV News. https://www.indiatvnews.com/delhi/arvind-kejriwal-arrested-in-liquor-policy-scam-case-by-enforcement-directorate-aap-reacts-money-laundering-excise-policy-manish-sisodia-2024-03-21-922648.
-(4) Arvind Kejriwal Arrest Live News: Delhi CM Arvind Kejriwal arrested in .... https://economictimes.indiatimes.com/news/newsblogs/arvind-kejriwal-ed-arrest-live-news-today-enforcement-directorate-raids-delhi-cm-residence-liquor-scam-excise-policy-case-delhi-latest-news-updates/liveblog/108685101.cms.
-(5) Arvind Kejriwal news live updates: Probe agency searches at Arvind .... https://www.indiatoday.in/india/story/arvind-kejriwal-residence-searches-enforcement-directorate-delhi-excise-policy-2517834-2024-03-21.
-(6) undefined. https://t.co/N1O0TnEsSt.
+---

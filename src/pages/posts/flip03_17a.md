@@ -32,10 +32,4 @@ url2: "/posts/flop03_17a"
 
 This yatra seeks to engage with citizens, understand their concerns, and advocate for justice across different regions of India. 🇮🇳
 
-Source: 
-(1) Rahul's yatra to enter Maharashtra, a Gandhi to enter Nandurbar after .... https://www.indiatoday.in/india/story/maharashtra-rahul-gandhi-bharat-jodo-nyay-yatra-nandurbar-lok-sabha-polls-2024-2513565-2024-03-12.
-(2) Rahul Gandhi's Journey into Maharashtra: March 12 Arrival, Mumbai .... https://thenewsmen.co.in/politics/rahul-gandhis-journey-into-maharashtra-march-12-arrival-mumbai-chaityabhoomi-conclusion/127141.
-(3) undefined. https://widget.taggbox.com/embed-lite.min.js.
-(4) Rahul Gandhi to walk 382-km in 14 days in Maharashtra from Nov 7; Pawar .... https://bing.com/search?q=Rahul+Gandhi+recent+tour+to+Maharashtra.
-(5) Rahul Gandhi to walk 382-km in 14 days in Maharashtra from Nov 7; Pawar .... https://www.hindustantimes.com/cities/mumbai-news/rahul-gandhi-to-walk-382-km-in-14-days-in-maharashtra-from-nov-7-pawar-and-thackeray-to-join-him-101666377905199.html.
-(6) Maharashtra: Rahul Gandhi visits gurdwara, resumes march. https://timesofindia.indiatimes.com/india/maharashtra-rahul-gandhi-visits-gurdwara-resumes-march/articleshow/95367828.cms.
+---

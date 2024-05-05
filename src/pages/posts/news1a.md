@@ -51,8 +51,4 @@ Certainly! The **Sagarmala Programme** offers several benefits for India's marit
 
 In summary, the Sagarmala scheme is a comprehensive initiative that aims to unlock the economic potential of India's coastline, boost trade, and create employment opportunities while improving logistics and connectivity³⁴. 🌊🚢📈
 
-Source:
-(1) Sagar Mala project - Wikipedia. https://en.wikipedia.org/wiki/Sagar_Mala_project.
-(2) Sagarmala Project - Sagarmala Seaplane Services [UPSC Notes] - BYJU'S. https://byjus.com/free-ias-prep/sagarmala-project/.
-(3) Sagarmala Projects - दृष्टि आईएएस. https://www.drishtiias.com/daily-updates/daily-news-analysis/sagarmala-projects.
-(4) India’s Sagarmala Project - IndBiz | Economic Diplomacy Division. https://indbiz.gov.in/post-about-project-three/.
+---

@@ -49,9 +49,3 @@ From leaf blowers to beating branches, volunteers across India fight relentlessl
 Young volunteers, armed with both ancient wisdom and modern techniques, are rewriting the narrative of forest fire prevention. Their commitment to protecting our natural heritage is commendable. As we celebrate their efforts, let us recognize that the battle against forest fires is ongoing. Together, we can safeguard our forests and ensure a greener, safer future for generations to come.
 
 ---
-
-**References:**
-1. [How a Unique Initiative in Uttarakhand is Helping Youth Fight Forest Fires](https://www.thebetterindia.com/345435/youth-fight-forest-fires-in-uttarakhand-the-hans-foundation-initiative-save-jungles/)
-2. [Youth from Odisha’s Kandhamal show the way to combat forest fires](https://www.downtoearth.org.in/blog/natural-disasters/youth-from-odisha-s-kandhamal-show-the-way-to-combat-forest-fires-89087)
-3. [Leaf blowers and beating branches: the fight to stop India’s forest fires](https://www.theguardian.com/environment/2021/mar/20/battle-against-indias-forest-fires-similipal-aoe)
-

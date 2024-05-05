@@ -32,3 +32,4 @@ Here are the key points of the bill:
 
 The bill aims to curb malpractices in various public examinations, including those conducted by Union and state public service commissions, railways, and entrance exams for medical, engineering, and university programs¹⁴. It's a significant step toward maintaining the integrity of our examination systems. 📚✍️
 
+---

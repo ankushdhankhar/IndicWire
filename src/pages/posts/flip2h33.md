@@ -46,9 +46,4 @@ The **Uniform Civil Code (UCC)** has been a topic of heated debate and has faced
 
 In summary, while the UCC aims to create a more equitable legal framework, it faces significant opposition due to concerns related to cultural diversity, personal freedom, and gender equality .
 
-Source:
-(1) theprintindia -> https://theprint.in/opinion/pov/uttarakhand-govt-is-now-mummy-daddy-state-live-in-is-the-new-marriage/1957985/
-(2) Uttarakhand passes Uniform Civil Code Bill: How succession ... - Firstpost. https://www.firstpost.com/explainers/uttarakhand-passes-uniform-civil-code-bill-how-succession-laws-will-change-13701792.html.
-(3) AIMPLB calls Uttarakhand Uniform Civil Code ‘a mere eyewash’. https://www.thehindu.com/news/national/other-states/aimplb-calls-uttarakhand-uniform-civil-code-a-mere-eyewash/article67822525.ece.
-(4) Uttarakhand Assembly passes Uniform Civil Code Bill. https://economictimes.indiatimes.com/news/india/uttarakhand-assembly-passes-uniform-civil-code-bill/articleshow/107496368.cms.
-(5) Uttarakhand assembly passes Uniform Civil Code Bill during special session. https://www.mid-day.com/news/india-news/article/uttarakhand-assembly-passes-uniform-civil-code-bill-during-special-session-23333995.
+---

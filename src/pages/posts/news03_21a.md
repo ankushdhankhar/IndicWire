@@ -44,3 +44,5 @@ In a separate conversation, PM Modi congratulated Russian President Vladimir Put
 As the world watches, India's diplomatic engagements underscore its commitment to regional stability and global peace. The dialogue between Prime Minister Modi, President Zelenskyy, and President Putin holds promise for a more secure and cooperative future.
 
 *Disclaimer: The views expressed in this article are those of the author and do not necessarily reflect the official stance of any government or organization.*
+
+---

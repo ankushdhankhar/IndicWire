@@ -43,13 +43,4 @@ Certainly! The **NDA (National Democratic Alliance)** government has implemented
 
 Additionally, the NDA government has launched flagship schemes such as "**Make in India**," "**Skill India**," and "**Vocal for Local**," which have brought revolutionary changes to the business environment and contributed to the growth of foreign direct investment (FDI) in India¹⁴.
 
-Source:
-(1) Parliament Budget Session Live Updates: Nirmala Sitharaman tables 'White Paper' motion in Lok Sabha. https://timesofindia.indiatimes.com/india/parliament-budget-session-live-updates-nirmala-sitharaman-union-budget-session-2024-25-narendra-modi-bjp-congress/liveblog/107534831.cms.
-(2) Nirmala Sitharaman lays ‘White Paper’ in Lok Sabha, says ‘it is a statement laid with responsibility…’. https://www.livemint.com/politics/nirmala-sitharaman-lays-white-paper-in-lok-sabha-says-it-is-a-statement-laid-with-responsibility-11707453293050.html.
-(3) Nirmala Sitharaman tables ‘white paper’ on Indian economy in Lok Sabha. https://www.msn.com/en-in/news/India/nirmala-sitharaman-tables-white-paper-on-indian-economy-in-lok-sabha/ar-BB1hZ89W.
-(4) Nirmala Sitharaman tables ‘white paper’ on Indian economy in Lok Sabha .... https://www.hindustantimes.com/india-news/nirmala-sitharaman-white-paper-on-indian-economy-upa-lok-sabha-read-full-text-101707394285885.html.
-(5) Nirmala Sitharaman presents 'White paper' on Indian economy in Lok .... https://www.indiatoday.in/india/story/parliament-budget-session-live-updates-rajya-sabha-lok-sabha-bill-latest-news-today-2499076-2024-02-08.
-(6) FM Nirmala Sitharaman tables white paper on Indian economy in Lok Sabha .... https://www.zeebiz.com/india/news-fm-nirmala-sitharaman-tables-white-paper-on-indian-economy-in-lok-sabha-275728.
-(7) 10 Years of UPA versus NDA Governments: Complete Analysis!. https://writersuraj.medium.com/10-years-of-upa-versus-nda-governments-complete-analysis-91774e1fd318.
-
-
+---

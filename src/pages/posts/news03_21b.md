@@ -63,13 +63,3 @@ Neuralink's brain chip represents a leap toward a future where humans and techno
 *Note: The information provided is based on current knowledge and developments as of March 2024. Neuralink's progress may have evolved since then, and further research is recommended for the most up-to-date insights.*⁴⁵
 
 ---
-*References:*
-1. [Built In: What Is Neuralink? What We Know So Far](https://builtin.com/hardware/what-is-neuralink)
-2. [MSN: Neuralink reveals first human trial patient](https://www.msn.com/en-in/money/technology/neuralink-reveals-first-human-trial-patient-a-29-year-old-quadriplegic-who-says-brain-chip-is-not-perfect-but-has-changed-his-life/ar-BB1kfHqG)
-
-Source: Conversation with Bing, 21/3/2024
-(1) Neuralink reveals first human trial patient, a 29-year-old quadriplegic who says brain chip is 'not perfect' but has changed his life. https://www.msn.com/en-in/money/technology/neuralink-reveals-first-human-trial-patient-a-29-year-old-quadriplegic-who-says-brain-chip-is-not-perfect-but-has-changed-his-life/ar-BB1kfHqG.
-(2) What Is Neuralink? What We Know So Far. | Built In. https://builtin.com/hardware/what-is-neuralink.
-(3) What Is Neuralink? What We Know So Far. | Built In. https://bing.com/search?q=Neuralink+brain+chip+for+motor+skills.
-(4) Mind Games: Elon Musk’s Neuralink Brain Chip Enables Human To Play Chess With His Mind. https://www.news18.com/tech/mind-games-elon-musks-neuralink-brain-chip-enables-human-to-play-chess-with-his-mind-8823194.html.
-(5) Musk's Neuralink shows first brain-chip patient playing online chess. https://www.msn.com/he-il/news/other/update-1-musks-neuralink-shows-first-brain-chip-patient-playing-online-chess/ar-BB1kfDI7.

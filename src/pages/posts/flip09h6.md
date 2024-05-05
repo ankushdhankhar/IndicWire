@@ -40,9 +40,4 @@ The **Congress** recently unveiled a document called the '**Black Paper**,' whic
 
 In summary, the 'Black Paper' serves as a comprehensive critique of the Modi government's policies and actions over the past decade, highlighting areas where it fell short and raising pertinent questions about governance and accountability¹².
 
-Source:
-(1) black paper: Congress releases 'Black Paper' highlighting Modi .... https://economictimes.indiatimes.com/news/politics-and-nation/congress-releases-black-paper-highlighting-modi-governments-failures-in-last-10-years/articleshow/107513508.cms.
-(2) Congress Black Paper News, BJP White Paper: "Price Rise, Unemployment .... https://www.ndtv.com/india-news/congress-black-paper-news-bjp-white-paper-price-rise-unemployment-congress-black-paper-attack-on-government-5019669.
-(3) 10 saal anyay kaal: Cong releases 'black paper' on Modi govt's failures. https://www.business-standard.com/politics/congress-releases-black-paper-on-narendra-modi-govt-s-failures-124020801785_1.html.
-(4) Congress Releases ‘Black Paper’ on Modi Government’s Failures. https://thewire.in/politics/congress-releases-black-paper-on-modi-governments-failures.
-(5) Congress' 'black paper' vs govt's ‘white paper’: A look at last ten .... https://www.livemint.com/politics/news/congress-black-paper-vs-govts-white-paper-a-look-at-last-ten-years-from-different-perspectives-11707385863418.html.
+---

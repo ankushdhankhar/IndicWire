@@ -34,3 +34,5 @@ As the community mourns the loss of these innocent lives, they come together in 
 Our hearts go out to the grieving family, and we hope that justice prevails for Vinod Kumar's children. The scars of this horrific event will forever mark the streets of Baba Colony, serving as a painful reminder of the need for vigilance and compassion.
 
 *Note: This article is based on available reports and eyewitness accounts. Further details may emerge as investigations continue.* 🕯️🙏
+
+---

@@ -41,3 +41,4 @@ India's abstention has ignited conversations about the interconnectedness of rel
 
 *Note: This article is based on the events at the UN General Assembly and the statements made by Ambassador Ruchira Kamboj. It aims to provide an in-depth analysis of the implications and significance of the resolution.*
 
+---

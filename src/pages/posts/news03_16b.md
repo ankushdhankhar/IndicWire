@@ -37,9 +37,4 @@ Here are some key details about the **Europa Clipper Mission**:
 
 In summary, the Europa Clipper Mission represents our collective curiosity and determination to explore the unknown, seeking answers about Europa's hidden secrets and the potential for life beneath its icy shell. 🚀🌌🌟
 
-Source:
-(1) Overview | Mission – NASA's Europa Clipper. https://europa.nasa.gov/mission/about/.
-(2) Meet Europa Clipper | Spacecraft – NASA's Europa Clipper. https://europa.nasa.gov/spacecraft/meet-europa-clipper/.
-(3) undefined. https://widget.taggbox.com/embed-lite.min.js.
-(4) Europa Clipper | Space@APL. https://space.jhuapl.edu/destinations/missions/europa-clipper.
-(5) NASA's Europa Clipper. https://europa.nasa.gov/.
+---

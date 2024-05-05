@@ -27,7 +27,4 @@ Here are the key details about Padmakar Valvi's move:
 
 This move underscores the fluidity of political affiliations and the competitive landscape in Maharashtra. 🗳️🇮🇳
 
-Source: 
-(1) Maharashtra: Senior Congress leader Padmakar Valvi joins BJP ahead of .... https://www.indiatvnews.com/maharashtra/maharashtra-senior-congress-leader-padmakar-valvi-joins-bjp-ahead-of-lok-sabha-polls-seat-sharing-eknath-shinde-chandrashekhar-bawankule-2024-03-13-921263.
-(2) Maharashtra : Former Congress Minister Padmakar Valvi joins BJP. https://www.livemint.com/politics/news/maharashtra-senior-congress-leader-and-former-minister-padmakar-valvi-joins-bjp-11710308251981.html.
-(3) Maharashtra Congress leader Padmakar Valvi joins BJP ahead of Lok Sabha polls. https://www.indiatoday.in/india/video/maharashtra-congress-leader-padmakar-valvi-joins-bjp-ahead-of-lok-sabha-polls-2514285-2024-03-13.
+---

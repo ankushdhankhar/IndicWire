@@ -38,3 +38,5 @@ url2: "/posts/flop03_16b"
    - Some view Sonia Gandhi’s opposition to the CAA as ironic. How can someone who wasn’t born in India lead a major political party and protest against a law?
 
 In the end, whether one sees it as irony or as a testament to her commitment, Sonia Gandhi's journey remains a remarkable chapter in India's political history.
+
+---

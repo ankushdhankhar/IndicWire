@@ -112,9 +112,4 @@ Here's a brief overview of the history of electoral bonds in India:
 
 In summary, the electoral bond system has been a subject of debate, with its origin, impact, and controversies playing out over the past few years¹⁴.
 
-Source: 
-(1) electoral bonds: Explained: What are electoral bonds? How do they work .... https://m.economictimes.com/news/how-to/explained-what-are-electoral-bonds-how-it-works-and-why-its-challenged-in-supreme-court/articleshow/104889034.cms.
-(2) What is an Electoral Bond - Business Standard. https://www.business-standard.com/about/what-is-electoral-bond.
-(3) What are electoral bonds? Why were they introduced?. https://www.businesstoday.in/latest/economy/story/what-are-electoral-bonds-why-were-they-introduced-417575-2024-02-15.
-(4) Electoral Bond - Wikipedia. https://en.wikipedia.org/wiki/Electoral_Bond.
-(5) undefined. https://widget.taggbox.com/embed-lite.min.js.
+---
