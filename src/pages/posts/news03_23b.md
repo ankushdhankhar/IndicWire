@@ -3,7 +3,7 @@ title: "Warship INS Kolkata Carries Apprehended Pirates to Mumbai"
 description: "The daring operation was part of the ongoing Operation Sankalp, a strategic initiative by the Indian Navy. Under this mission, naval vessels patrol the **Arabian Sea** and the"
 pubDate: "2024-03-23"
 hero: "https://media.zenfs.com/en/afp.com.sg/8865512ecccb415eacf2e2cd190c89c1"
-tags: ["trending", "world"]
+tags: ["Trending", "world"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 

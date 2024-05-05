@@ -3,7 +3,7 @@ title: "India Protests Germany's Remarks on Arvind Kejriwal's Arrest as "Blatant
 description: "The Ministry of External Affairs (MEA) has lodged a strong protest with the German envoy following the country's comments on the arrest of Delhi Chief Minister **Arvind Kejriwal** by the Enforcement Directorate."
 pubDate: "2024-03-23"
 hero: "https://munsifdaily.com/wp-content/uploads/2024/03/MINISTRY-OF-EXTERNAL-AFFAIR.jpg"
-tags: ["trending", "world"]
+tags: ["Trending", "world"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 

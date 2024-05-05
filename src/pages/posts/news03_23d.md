@@ -3,7 +3,7 @@ title: "Joby Aviation to Launch Flying Taxi Service in Dubai Ahead of US"
 description: "A pioneering company in the electric vertical takeoff and landing (eVTOL) aircraft industry, is set to revolutionize urban transportation with its ambitious flying taxi service."
 pubDate: "2024-03-23"
 hero: "https://ymimg1.b8cdn.com/uploads/article/9086/pictures/11951482/Joby_Aviation_to_Launch_Air-Taxi_Service_in_Dubai_by_2026_3.jpg"
-tags: ["trending","health-and-lifestyle"]
+tags: ["Trending","health-and-lifestyle"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 # Joby Aviation to Launch Flying Taxi Service in Dubai Ahead of US
