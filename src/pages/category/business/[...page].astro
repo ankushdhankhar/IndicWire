@@ -15,7 +15,7 @@ export async function getStaticPaths({ paginate }) {
         new Date(b.frontmatter.pubDate).valueOf() -
         new Date(a.frontmatter.pubDate).valueOf()
     )
-    .filter((a) => a.frontmatter.tags.includes("business"));
+    .filter((a) => a.frontmatter?.tags?.includes("business"));
   console.log(sortedPosts);
 
   return paginate(sortedPosts, {
@@ -48,7 +48,7 @@ let seoDescription = "";
           {
             page.data.map((p) => (
               <>
-                {p.frontmatter.tags.includes("flip-flop") ? (
+                {p.frontmatter?.tags?.includes("flip-flop") ? (
                   <FlipCard post={p} />
                 ) : (
                   <Card flipFlop={false} post={p} />
