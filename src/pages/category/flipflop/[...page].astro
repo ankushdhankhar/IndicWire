@@ -13,7 +13,7 @@ export async function getStaticPaths({ paginate }) {
     .sort(
       (a, b) =>
         new Date(b.frontmatter.pubDate).valueOf() -
-        new Date(a.frontmatter.pubDate).valueOf()
+        new Date(a.frontmatter.pubDate).valueOf(),
     )
     .filter((a) => a.frontmatter?.tags?.includes("flip-flop"));
   console.log(sortedPosts);
@@ -35,7 +35,20 @@ let seoDescription = "";
     <BaseHead title={seoTitle} description={seoDescription} />
   </head>
 
-  <body class="bg-white text-black font-body leading-normal personality-casual">
+  <body
+    class="bg-white text-black font-body leading-normal personality-casual relative"
+  >
+    <a href="/"
+      ><button
+        class="float fixed z-50 right-4 bottom-4 bg-black text-white w-fit-content p-4 rounded-full aspect-square text-center flex items-center flex-col"
+      >
+        <img
+          src="/images/normal.svg"
+          alt="flip flop"
+          class="w-8 h-8 text-center"
+        /><span class="my-auto">Default</span></button
+      ></a
+    >
     <Nav />
 
     <main class="py-12 lg:py-20">
