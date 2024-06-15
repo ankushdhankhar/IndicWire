@@ -2,7 +2,7 @@
 title: "Activist Arundhati Roy : Accused of Anti-National Sentiments"
 pubDate: "2024-06-15"
 slug: "What-an-irony"
-description: "In a statement Roy asserted that "Kashmir has never been an integral part of India. It is a historical fact. Even the Indian government has accepted this.""
+description: "In a statement Roy asserted that 'Kashmir has never been an integral part of India. It is a historical fact. Even the Indian government has accepted this.'"
 hero: "https://www.taipeitimes.com/images/2010/10/28/p05-101028-309.jpg"
 tags: ["flip-flop"]
 layout: "../../layouts/BlogPostLayout.astro"
