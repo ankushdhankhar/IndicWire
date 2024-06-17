@@ -1,6 +1,6 @@
 ---
 title: "Assam Chief Minister Announces End to Free Electricity for Public Servants"
-description: ""We are ending the VIP culture rule of paying electricity bills for government officials using taxpayer money. Myself and the Chief Secretary will set an example and"
+description: "We are ending the VIP culture rule of paying electricity bills for government officials using taxpayer money. Myself and the Chief Secretary will set an example and"
 pubDate: "2024-06-17"
 hero: "https://www.livemint.com/lm-img/img/2024/06/17/600x338/PTI04-30-2024-000283B-0_1715485999791_1718591547611.jpg"
 tags: ["politics"]
