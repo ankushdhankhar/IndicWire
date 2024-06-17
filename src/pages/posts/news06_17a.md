@@ -13,7 +13,7 @@ In a significant policy shift aimed at curbing expenses and promoting fiscal res
 
 Furthermore, Sarma emphasized his commitment to lead by example in this initiative. He announced that both himself and the Chief Secretary of Assam will commence paying their electricity bills from July 1, setting a precedent for others in the government to follow suit.
 
-"We are ending the VIP culture rule of paying electricity bills for government officials using taxpayer money. Myself and the Chief Secretary will set an example and start paying our power bills from July 1 onwards," stated Chief Minister Himanta Biswa Sarma.
+"We are ending the VIP culture rule of paying electricity bills for government officials using taxpayer money. Myself and the Chief Secretary will set an example and start paying our power bills from July 1 onwards," stated Chief Minister Hemant Biswa Sarma.
 
 The decision is part of a broader effort by the Assam government to rationalize expenses and ensure that public resources are utilized efficiently. By mandating that public servants bear the cost of their electricity consumption, the government aims to foster greater accountability and transparency in financial matters.
 
