@@ -9,7 +9,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 **Assam Chief Minister Announces End to Free Electricity for Public Servants**
 
-In a significant policy shift aimed at curbing expenses and promoting fiscal responsibility, Assam Chief Minister Himanta Biswa Sarma declared that all public servants in the state will be required to pay for their electricity consumption starting July 1, 2024. This announcement, made by Sarma in a video message on Sunday, marks the conclusion of the longstanding practice where government officials' electricity bills were covered by taxpayer funds.
+In a significant policy shift aimed at curbing expenses and promoting fiscal responsibility, Assam Chief Minister Hemant Biswa Sarma declared that all public servants in the state will be required to pay for their electricity consumption starting July 1, 2024. This announcement, made by Sarma in a video message on Sunday, marks the conclusion of the longstanding practice where government officials' electricity bills were covered by taxpayer funds.
 
 Furthermore, Sarma emphasized his commitment to lead by example in this initiative. He announced that both himself and the Chief Secretary of Assam will commence paying their electricity bills from July 1, setting a precedent for others in the government to follow suit.
 
