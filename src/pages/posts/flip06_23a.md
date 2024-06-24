@@ -1,6 +1,6 @@
 ---
 title: "At Golden Temple, Many defended the Muslim's right to pray, emphasizing the principles of inclusivity and religious tolerance"
-pubDate: "2024-02-23"
+pubDate: "2024-06-23"
 slug: "What-an-irony"
 description: "The Golden Temple has always stood for unity and respect for all religions. Allowing peaceful prayers of other faiths reflects these values, stated Sarabjit Kaur, a social activist."
 hero: "https://mohid.net/wp-content/uploads/2022/11/namaz-vakitleri.jpg"
