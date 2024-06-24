@@ -1,6 +1,6 @@
 ---
 title: "Incident Sparks Outrage as IDF Uses Human Shield in Gaza"
-pubDate: "2024-02-24"
+pubDate: "2024-06-24"
 slug: "What-an-irony"
 description: "IDF have been accused of using a Palestinian as a human shield in the volatile streets of Gaza. Eyewitnesses reported a harrowing scene where an IDF vehicle was seen"
 hero: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-06/240623-idf-nd-e5e61e.png"

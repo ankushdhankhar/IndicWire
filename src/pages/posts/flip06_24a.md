@@ -1,6 +1,6 @@
 ---
 title: "Pointing to the dark chapter of the Emergency era as evidence, allies have accused the INC of hypocrisy"
-pubDate: "2024-02-24"
+pubDate: "2024-06-24"
 slug: "What-an-irony"
 description: "Congress party, which once trampled upon the very essence of democracy by imposing Emergency, now lectures the nation on constitutional values"
 hero: "https://qph.cf2.quoracdn.net/main-qimg-01574fddb82dbab1713c7ff0ac8b68ae-lq"

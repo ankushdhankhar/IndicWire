@@ -1,6 +1,6 @@
 ---
 title: "In 2020, Bajrang Punia to Return Padma Shri in Protest Over WFI Chief Election"
-pubDate: "2024-02-24"
+pubDate: "2024-06-24"
 slug: "What-an-irony"
 description: "Citing his discontent over the recent election of the Wrestling Federation of India (WFI) chief."
 hero: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtnYBJikMVZPg0w5Qhni_nPuU2GND4pbd9F7bKPx8uBRanYxv__lxXrzT-f6ZDWaLLKA&usqp=CAU"
