@@ -2,7 +2,7 @@
 title: "British PM Rishi Sunak Praises Hindu Faith as a Source of Inspiration and Comfort"
 description: "The visit to the Shri Swaminarayan Mandir in Neasden marked a significant moment for Sunak, who has often spoken about his faith in public."
 pubDate: "2024-06-30"
-hero: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/09/e0c70385-69ba-4771-914d-6aa9009b3e7f-1568795347.jpg"
+hero: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClhBv6MPbue-pADjgUUe8HxBAzMjv6G6nSQ&usqp=CAU"
 tags: ["world"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
