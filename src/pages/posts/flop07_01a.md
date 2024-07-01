@@ -2,7 +2,7 @@
 title: "Why is the Opposition Silent on Rosonara Khatun's Assault? Is Democracy Not in Danger Now?"
 description: "The selective outrage of the opposition undermines their credibility. Their silence in the face of such a heinous act in an opposition-ruled state"
 pubDate: "2024-07-01"
-hero: "https://www.livemint.com/lm-img/img/2024/06/28/600x338/PTI06-28-2024-000141B-0_1719560150682_1719560176261.jpg"
+hero: "https://www.zoomnews.in/uploads_2019/newses/india-alliance_1506773303_sm.webp"
 tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
