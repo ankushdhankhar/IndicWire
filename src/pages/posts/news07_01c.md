@@ -1,6 +1,6 @@
 ---
-title: "Amrut Distilleries Triumphs at 2024 International Spirits Challenge, Winning "World's Best Whiskey" Title"
-description: "Winning the prestigious 'World's Best Whiskey' title at the 2024 International Spirits Challenge in London."
+title: "Amrut Distilleries Triumphs at 2024 International Spirits Challenge, Winning "World's Best Whiskey"
+description: "Winning the prestigious World's Best Whiskey title at the 2024 International Spirits Challenge in London."
 pubDate: "2024-07-01"
 hero: "https://curlytales.com/wp-content/uploads/2024/05/amrut-awards.jpg"
 tags: ["trending"]
