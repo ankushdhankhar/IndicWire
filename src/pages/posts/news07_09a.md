@@ -10,7 +10,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 **Date:** July 9, 2024
 
-**Byline:** By [Your Name], [Your News Organization]
 
 **Moscow/New Delhi:** In a significant diplomatic breakthrough, Russia has agreed to discharge and facilitate the return of all Indian nationals fighting in the Russian army in Ukraine. This development comes as a direct outcome of Indian Prime Minister Narendra Modi’s high-stakes visit to Moscow.
 
