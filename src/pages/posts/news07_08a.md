@@ -2,7 +2,7 @@
 title: "Kulgam Encounter: Investigation Reveals Local Support for Hizbul Mujahideen Terrorists"
 description: "Residents provided logistical support and safe houses to the militants, allowing them to evade security forces for an extended period."
 pubDate: "2024-07-08"
-hero: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hindustantimes.com%2Findia-news%2Fkulgam-4-terrorists-had-been-hiding-in-bunker-behind-wardrobe-video-surfaces-101720396494871.html&psig=AOvVaw1ELs9li_s4YZ2Dvt4GBmpC&ust=1720504189747000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOD-4NvflocDFQAAAAAdAAAAABAQ"
+hero: "https://imgs.search.brave.com/gvYD2VoZOE2hRVUmtOjSeNh7csyiepBEUCpncmlX6QI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGluZHVzdGFu/dGltZXMuY29tL2lt/Zy8yMDI0LzA3LzA4/LzU1MHgzMDkva3Vs/Z2FtXzE3MjAzOTgx/MTk0NDFfMTcyMDM5/ODE0MzIzMS5qcGc"
 tags: ["trending"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
