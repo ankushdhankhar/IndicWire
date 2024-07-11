@@ -1,5 +1,5 @@
 ---
-title: "Rahul Gandhi Refers to "Indian Union" in Manipur Comment"
+title: "Rahul Gandhi Refers to 'Indian Union' in Manipur Comment"
 description: "We are not just a union of states, we are India. Such statements can be seen as diminishing the spirit of our national identity and unity."
 pubDate: "2024-07-10"
 hero: "https://pbs.twimg.com/ext_tw_video_thumb/1810349936422391809/pu/img/do-zqZ8Z1GERKQuY.jpg:large"
