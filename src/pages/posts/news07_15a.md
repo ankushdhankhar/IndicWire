@@ -2,7 +2,7 @@
 title: "BJP Faces Challenges in Rajya Sabha Following Retirement of Four Members"
 description: "Consequently, the broader National Democratic Alliance (NDA) now holds 101 seats, falling short of the majority threshold of 113 in the 245-member house. "
 pubDate: "2024-07-15"
-hero: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/pm-modi-042537676-16x9_0.jpg?VersionId=zky5M9idY6IN23R7xKQ.qiRSTo.XtAtB"
+hero: "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/15/full/1713172837-9357.jpg?im=FitAndFill=(826,465)"
 tags: ["politics"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
