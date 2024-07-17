@@ -1,5 +1,5 @@
 ---
-title: " Teen Arrested for "Religiously Aggravated" Attack at Sri Guru Nanak Darbar Gurdwara in Gravesend"
+title: " Teen Arrested for 'Religiously Aggravated' Attack at Sri Guru Nanak Darbar Gurdwara in Gravesend"
 description: "A 17-year-old boy has been arrested and charged with multiple offences, including threats to kill"
 pubDate: "2024-07-17"
 hero: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/sri-guru-nanak-darbar-gurudwara-161410911-16x9_0.jpg?VersionId=yAKwBKKYBN4Z3EmkNj_QjsxdHLQYJrn6?size=647:363"
