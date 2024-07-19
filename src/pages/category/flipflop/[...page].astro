@@ -33,13 +33,62 @@ let seoDescription = "";
 <html lang="en">
   <head>
     <BaseHead title={seoTitle} description={seoDescription} />
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const button = document.getElementById('movableButton');
+        let isDragging = false;
+        let wasDragged = false;
+        let startX, startY, offsetX, offsetY;
+  
+        button.addEventListener('mousedown', (e) => {
+          isDragging = true;
+          wasDragged = false;
+          startX = e.clientX;
+          startY = e.clientY;
+          offsetX = e.clientX - button.getBoundingClientRect().left;
+          offsetY = e.clientY - button.getBoundingClientRect().top;
+          e.preventDefault();
+        });
+  
+        document.addEventListener('mousemove', (e) => {
+          if (isDragging) {
+            const dx = e.clientX - startX;
+            const dy = e.clientY - startY;
+            // If moved significantly, consider it a drag
+            if (Math.abs(dx) > 5 || Math.abs(dy) > 5) {
+              wasDragged = true;
+              button.style.left = `${e.clientX - offsetX}px`;
+              button.style.top = `${e.clientY - offsetY}px`;
+            }
+          }
+        });
+  
+        document.addEventListener('mouseup', (e) => {
+          if (isDragging) {
+            isDragging = false;
+          }
+        });
+  
+        button.addEventListener('click', (e) => {
+          if (wasDragged) {
+            e.preventDefault(); // Prevent the click action if it was a drag
+          }
+        });
+      });
+    </script>
+    <style>
+      #movableButton {
+        position: fixed;
+        cursor: move;
+      }
+    </style>
   </head>
 
   <body
     class="bg-white text-black font-body leading-normal personality-casual relative"
   >
     <a href="/"
-      ><button
+      ><button id="movableButton" 
         class="float fixed z-50 right-4 bottom-4 bg-black text-white w-fit-content p-4 py-2 px-6 rounded-full h-20 w-32 aspect-square text-center flex items-center flex-col"
       >
         <img
