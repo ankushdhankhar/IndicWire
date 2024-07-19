@@ -1,5 +1,7 @@
 ---
 import dayjs from "dayjs";
+// import { format } from 'date-fns';
+
 
 export interface Props {
   post: any;
@@ -19,6 +21,10 @@ if (flipFlop) {
   desc = post.frontmatter.description;
   url = post.url;
 }
+
+// Format the publish date
+// const pubDate = new Date(post.data.pubDate);
+// const formattedDate = format(pubDate, 'PP'); // Example: July 11th, 2024
 ---
 
 <div
@@ -41,7 +47,8 @@ if (flipFlop) {
     </div>
     <div class="below flex justify-between items-baseline pb-4 mt-6">
       <p class="text-sm text-gray-600 flex items-center">
-        {dayjs(post.frontmatter.pubDate).format("MM-DD-YYYY")}
+        {dayjs(post.frontmatter.pubDate).format('MM-DD-YYYY')}
+           <!-- {formattedDate} -->
       </p>
       <a href={url} class="hover:-translate-y-1">
         <button class="bg-pink-50 border-pink-300 px-2 py-1 rounded border"
