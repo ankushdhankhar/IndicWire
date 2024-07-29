@@ -39,15 +39,15 @@ if (flipFlop) {
     height="192"
   />
   <div class="pt-4 px-4 flex h-full flex-col justify-between">
-    <h2 class="font-bold text-2xl leading-tight line-clamp-2">
+    <h3 class="font-bold text-xl leading-tight line-clamp-2">
       {title}
-    </h2>
-    <div class="desc line-clamp-2 mt-2 text-sm text-gray-600">
+    </h3>
+    <div class="desc line-clamp-2 text-sm text-gray-600">
       {desc}
     </div>
     <div class="below flex justify-between items-baseline pb-4 mt-6">
       <p class="text-sm text-gray-600 flex items-center">
-        {dayjs(post.frontmatter.pubDate).format('MM-DD-YYYY')}
+        {dayjs(post.frontmatter.pubDate).format('DD-MM-YYYY')}
            <!-- {formattedDate} -->
       </p>
       <a href={url} class="hover:-translate-y-1">
