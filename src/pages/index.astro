@@ -16,6 +16,7 @@ const sortedPosts = allPosts.sort(
     new Date(b.frontmatter.pubDate).valueOf() -
     new Date(a.frontmatter.pubDate).valueOf(),
 );
+const latestPosts = sortedPosts.slice(0, 9);
 ---
 
 <html lang="en">
@@ -97,7 +98,7 @@ const sortedPosts = allPosts.sort(
           data-test="articles-section"
         >
           {
-            sortedPosts.map((p) => (
+            latestPosts.map((p) => (
               <>
                 {p.frontmatter?.tags?.includes("flip-flop") ? (
                   <Card flipFlop={false} post={p} /> //on index page it wil be normal
@@ -105,7 +106,9 @@ const sortedPosts = allPosts.sort(
                   <Card flipFlop={false} post={p} />
                 )}
               </>
-            ))
+              
+            )
+          )
           }
         </section>
       </article>
@@ -113,7 +116,7 @@ const sortedPosts = allPosts.sort(
 
     <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
       <a href="/posts" class="mr-8" data-test="see-all-link">
-        See All<span class="squiggle">&rarr;</span>
+        See All<span class="squiggle">&rArr;</span>
       </a>
     </section>
 
