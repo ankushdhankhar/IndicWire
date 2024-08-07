@@ -106,7 +106,6 @@ const latestPosts = sortedPosts.slice(0, 12);
                   <Card flipFlop={false} post={p} />
                 )}
               </>
-              
             )
           )
           }
@@ -116,8 +115,13 @@ const latestPosts = sortedPosts.slice(0, 12);
 
     <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
       <a href="/posts" class="mr-8" data-test="see-all-link">
-        See All<span class="squiggle">&rArr;</span>
+        See All<span >&rArr;</span>
       </a>
+
+      <!-- <a href="/posts" class="mr-8" data-test="see-all-link">
+        See All<span  class="squiggle" 
+         >&rArr;</span>
+      </a> -->
     </section>
 
     <Footer />
