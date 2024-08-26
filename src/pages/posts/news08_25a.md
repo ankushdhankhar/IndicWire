@@ -8,7 +8,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 ---
 **Telegram Founder Pavel Durov Reportedly Arrested at French Airport**
 
-**Paris, France –** Pavel Durov, the billionaire founder and CEO of Telegram, was reportedly arrested at a French airport while traveling aboard his private jet. The incident, which has sent shockwaves across the tech world, occurred on [insert date], with local media outlets providing varying details about the circumstances surrounding his detention.
+**Paris, France –** Pavel Durov, the billionaire founder and CEO of Telegram, was reportedly arrested at a French airport while traveling aboard his private jet. The incident, which has sent shockwaves across the tech world, occurred yesterday, with local media outlets providing varying details about the circumstances surrounding his detention.
 
 ### **Arrest Details**
 
