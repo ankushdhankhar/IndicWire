@@ -1,6 +1,6 @@
 ---
 title: "President Murmu Backs India's Olympic Aspirations, Emphasizes Promotion of Merit in Sports"
-description: "Speaking at a national sports conclave in New Delhi, President Murmu stated, "The Olympics should definitely happen in India."
+description: "Speaking at a national sports conclave in New Delhi, President Murmu stated, 'The Olympics should definitely happen in India'."
 pubDate: "2024-08-28"
 hero: "https://dailytrust.com/wp-content/uploads/2021/05/bbc447bc-6dc2-11ea-89df-41bea055720b.jpg"
 tags: ["trending"]
