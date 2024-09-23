@@ -1,5 +1,5 @@
 ---
-title: "Tamil Nadu Governor RN Ravi Criticizes Secularism as a "European Concept," Claims It Is Unnecessary in India"
+title: "Tamil Nadu Governor RN Ravi Criticizes Secularism as a 'European Concept', Claims It Is Unnecessary in India"
 description: "He elaborated that the concept of secularism, as practiced in India, was a distortion of its original European meaning and that its imposition on Indian society was misleading."
 pubDate: "2024-09-23"
 hero: "https://www.theweekendleader.com/admin/upload/12_02_2024_05_44_18_ravi.jpg"
